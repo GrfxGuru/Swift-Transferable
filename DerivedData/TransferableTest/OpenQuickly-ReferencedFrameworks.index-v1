@@ -4,5 +4,6 @@
 <array>
 	<string>SwiftUI</string>
 	<string>UniformTypeIdentifiers</string>
+	<string>Foundation</string>
 </array>
 </plist>

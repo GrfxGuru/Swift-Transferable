@@ -5,6 +5,10 @@
       {
         "comment": "",
         "key": "Some text"
+      },
+      {
+        "comment": "",
+        "key": "Clear"
       }
     ]
   },

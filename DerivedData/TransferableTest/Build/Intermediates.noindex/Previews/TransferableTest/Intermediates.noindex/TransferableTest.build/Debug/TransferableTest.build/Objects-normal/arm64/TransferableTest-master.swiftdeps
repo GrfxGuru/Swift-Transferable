@@ -1,7 +1,8 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
 options: "bf7e67f2cdfb29e78e71b481887b8bb89abd0305379a374b8183d6c1ffe12b67"
-build_start_time: [1684819362, 863659000]
-build_end_time: [1684819363, 411229000]
+build_start_time: [1684824508, 879260000]
+build_end_time: [1684824509, 662868000]
 inputs:
-  "/Users/peter/Developer/Xcode/TransferableTest/TransferableTest/ContentView.swift": [1684819362, 573929626]
+  "/Users/peter/Developer/Xcode/TransferableTest/TransferableTest/ContentView.swift": [1684824508, 761467743]
+  "/Users/peter/Developer/Xcode/TransferableTest/TransferableTest/ImageModel.swift": [1684821980, 422359830]
   "/Users/peter/Developer/Xcode/TransferableTest/TransferableTest/TransferableTestApp.swift": [1684810108, 945132623]

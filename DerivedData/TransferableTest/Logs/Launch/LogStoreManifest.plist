@@ -231,6 +231,141 @@
 			<key>uniqueIdentifier</key>
 			<string>5BA1A60C-31D5-4EF6-8858-0E3749A3B38C</string>
 		</dict>
+		<key>603F29C9-DDF6-4016-9B18-0D7C46333C09</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>94272F12-2791-4132-AF2E-F3D9574F9073</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TransferableTest-2023.05.23_01-35-48--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516548.07891297</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>603F29C9-DDF6-4016-9B18-0D7C46333C09</string>
+		</dict>
+		<key>75B020CF-6EFD-4543-9C3E-0F9EFDD66E54</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2D579A50-2B34-4B42-8F4C-5E16F6DB49A5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TransferableTest-2023.05.23_01-31-11--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516271.16989005</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>75B020CF-6EFD-4543-9C3E-0F9EFDD66E54</string>
+		</dict>
+		<key>794F5B9F-FA3F-4CFD-BC2F-513299586B3A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A2725B23-7BD2-4B9F-AF45-08C3BBBCE507</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TransferableTest-2023.05.23_01-57-30--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706517850.75528705</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>794F5B9F-FA3F-4CFD-BC2F-513299586B3A</string>
+		</dict>
 		<key>870EDE95-3C6F-460E-B16E-64B2B6E9FE3C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -320,6 +455,51 @@
 			<string>Run TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>878D4C2D-776B-454F-BFA5-2AAD3D77A904</string>
+		</dict>
+		<key>8A39F10B-539E-40E2-8684-E0DD460B2DCF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>19052F16-8231-496A-BA7C-5803CAD98F79</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TransferableTest-2023.05.23_01-15-24--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515324.29307997</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>8A39F10B-539E-40E2-8684-E0DD460B2DCF</string>
 		</dict>
 		<key>8AFEF862-B3AF-41EF-82CA-C4CB5AC8794B</key>
 		<dict>
@@ -771,6 +951,51 @@
 			<key>uniqueIdentifier</key>
 			<string>CFA1EF03-62B7-4A61-987A-C99853DE2633</string>
 		</dict>
+		<key>E2E3B550-03DF-4A69-B765-E0A6C5CE0636</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4ABDE553-3B49-4380-BE72-11711891D23A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TransferableTest-2023.05.23_01-11-25--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515085.89771998</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>E2E3B550-03DF-4A69-B765-E0A6C5CE0636</string>
+		</dict>
 		<key>F4C265F1-BF53-4210-A996-F88577AC8FB6</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -815,6 +1040,51 @@
 			<string>Run TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>F4C265F1-BF53-4210-A996-F88577AC8FB6</string>
+		</dict>
+		<key>F6C78EBD-3631-4B35-853E-33A66D646197</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>80D6F29B-DBC1-4850-BA2E-4747A57711A6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TransferableTest-2023.05.23_00-29-17--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706512557.33408701</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>F6C78EBD-3631-4B35-853E-33A66D646197</string>
 		</dict>
 		<key>FB76E093-C147-4321-A5FE-4AFA4282039C</key>
 		<dict>

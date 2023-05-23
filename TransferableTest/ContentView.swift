@@ -9,35 +9,51 @@ import SwiftUI
 import UniformTypeIdentifiers
 
 struct ContentView: View {
-  
-  let link = URL(string: "https://www.compileswift.com")!
-  @State var imageFile = Image("CSPodcast")
-  @State var shareable = ShareablePhoto(image: Image("CSPodcast"), caption: "Here's the caption")
+
+  @State var imageFile = Image("DropTarget")
+  @State var shareable = ShareablePhoto(image: Image("DropTarget"), caption: "Here's the caption")
   @State var showText = "Some initial text"
-  
+  @State var displayGrid:[GridItem] = [GridItem(.flexible()), GridItem(.flexible())]
+  @State var imageArray:[ImageModel] = []
+
   var body: some View {
-    VStack (spacing: 30) {
-      Text(showText)
-      Text(shareable.caption)
-      imageFile
-        .resizable()
-        .aspectRatio(contentMode: .fit)
-        .frame(width:100, height: 100)
-        .dropDestination(for: Image.self) { items, location in
-          imageFile = items.first ?? Image("CSPodcast")
-          shareable.image = items.first ?? Image("CSPodcast")
-          return true
+    VStack {
+      HStack () {
+        imageFile
+          .resizable()
+          .aspectRatio(contentMode: .fit)
+          .frame(width:100, height: 100)
+          .dropDestination(for: Image.self) { items, location in
+            imageArray.append(contentsOf: items.map { item in
+              return ImageModel(id: UUID(), imageFile: item)
+            })
+            //shareable.image = items.first ?? Image("CSPodcast")
+            return true
+          }
+      }
+      .padding()
+      LazyVGrid (columns: displayGrid) {
+        ForEach(imageArray, id: \.self) { item in
+          item.imageFile
+            .resizable()
+            .aspectRatio(contentMode: .fit)
+            .frame(width:100, height: 100)
         }
-      ShareLink(item: shareable,
-                preview: SharePreview("Some text", image: shareable.image))
-      PasteButton(payloadType: String.self, onPaste: { strings in
-        showText = strings.first ?? "no paste for you"
-      })
+      }
+      Spacer()
+      HStack {
+        ShareLink(item: shareable,
+                  preview: SharePreview("Some text", image: shareable.image))
+        .frame(width: 150, height: 36)
+        Button(action: {imageArray = []}, label: {
+          Image(systemName: "trash.fill")
+        })
+      }
     }
-    .padding()
-    .frame(width: 200, height: 400)
+    .frame(width: 400, height: 400)
+
   }
-  
+
 }
 
 struct ContentView_Previews: PreviewProvider {

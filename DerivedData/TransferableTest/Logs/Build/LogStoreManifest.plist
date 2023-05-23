@@ -74,6 +74,74 @@
 			<key>uniqueIdentifier</key>
 			<string>035FB30C-8850-4ECD-8557-E49F72358F81</string>
 		</dict>
+		<key>04BB9149-BF47-4D9E-94A6-9F2A15BB6F57</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>04BB9149-BF47-4D9E-94A6-9F2A15BB6F57.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513064.58438802</real>
+			<key>timeStoppedRecording</key>
+			<real>706513064.84178102</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>04BB9149-BF47-4D9E-94A6-9F2A15BB6F57</string>
+		</dict>
+		<key>0880445D-3954-425F-8DE5-35504F828041</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0880445D-3954-425F-8DE5-35504F828041.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516197.27667999</real>
+			<key>timeStoppedRecording</key>
+			<real>706516197.55904198</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>0880445D-3954-425F-8DE5-35504F828041</string>
+		</dict>
 		<key>0C528F93-3E86-4F57-95F4-F56D3AB164AC</key>
 		<dict>
 			<key>className</key>
@@ -176,6 +244,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0F4256B9-21D1-4A6A-A605-065A877EAE3C</string>
 		</dict>
+		<key>0FD9E186-A497-4F12-A945-CC317FDBE025</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FD9E186-A497-4F12-A945-CC317FDBE025.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706512580.98966706</real>
+			<key>timeStoppedRecording</key>
+			<real>706512581.653561</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>0FD9E186-A497-4F12-A945-CC317FDBE025</string>
+		</dict>
 		<key>10064D49-C983-483D-8416-BACC2198BA37</key>
 		<dict>
 			<key>className</key>
@@ -277,6 +379,40 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>161AA1A7-5CE3-4088-ACA7-23036C3E9BA2</string>
+		</dict>
+		<key>19052F16-8231-496A-BA7C-5803CAD98F79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19052F16-8231-496A-BA7C-5803CAD98F79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515324.29316795</real>
+			<key>timeStoppedRecording</key>
+			<real>706515325.07918</real>
+			<key>title</key>
+			<string>Build TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>19052F16-8231-496A-BA7C-5803CAD98F79</string>
 		</dict>
 		<key>198DFE61-197A-465B-BDF7-CFEA4F2635E3</key>
 		<dict>
@@ -413,6 +549,74 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>1D5AA001-543C-4D91-B84F-FCEB472D7CC7</string>
+		</dict>
+		<key>1DEE859B-FB84-4317-B08E-13CB7FE999E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1DEE859B-FB84-4317-B08E-13CB7FE999E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516486.85749602</real>
+			<key>timeStoppedRecording</key>
+			<real>706516487.61421597</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>1DEE859B-FB84-4317-B08E-13CB7FE999E4</string>
+		</dict>
+		<key>1F2BE1B6-162B-48AA-9F82-1E1B4281BF81</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F2BE1B6-162B-48AA-9F82-1E1B4281BF81.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513095.11632097</real>
+			<key>timeStoppedRecording</key>
+			<real>706513095.51634896</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>1F2BE1B6-162B-48AA-9F82-1E1B4281BF81</string>
 		</dict>
 		<key>1FF40955-7CFA-42CD-9B23-BF3E3B6F8A7A</key>
 		<dict>
@@ -719,6 +923,108 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>2CD0DAA5-2B83-4E9D-BC2C-AEACA35DC39F</string>
+		</dict>
+		<key>2D579A50-2B34-4B42-8F4C-5E16F6DB49A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2D579A50-2B34-4B42-8F4C-5E16F6DB49A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516271.16995203</real>
+			<key>timeStoppedRecording</key>
+			<real>706516271.96327198</real>
+			<key>title</key>
+			<string>Build TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>2D579A50-2B34-4B42-8F4C-5E16F6DB49A5</string>
+		</dict>
+		<key>2F0B5A34-950A-40B9-B40D-8076D437BC98</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2F0B5A34-950A-40B9-B40D-8076D437BC98.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515317.97869503</real>
+			<key>timeStoppedRecording</key>
+			<real>706515318.812024</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>2F0B5A34-950A-40B9-B40D-8076D437BC98</string>
+		</dict>
+		<key>2FBEAE83-CC39-499A-A3C7-9F0EB4365880</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2FBEAE83-CC39-499A-A3C7-9F0EB4365880.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706512997.48423302</real>
+			<key>timeStoppedRecording</key>
+			<real>706512997.81303096</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>2FBEAE83-CC39-499A-A3C7-9F0EB4365880</string>
 		</dict>
 		<key>2FC020B8-6214-4F35-B0CE-2FE26B10C082</key>
 		<dict>
@@ -1060,6 +1366,40 @@
 			<key>uniqueIdentifier</key>
 			<string>42081E23-6795-439E-B428-12F4ADC24817</string>
 		</dict>
+		<key>4208AC0C-0E3D-4BB7-B88B-B5D1E585D3DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4208AC0C-0E3D-4BB7-B88B-B5D1E585D3DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516223.22516799</real>
+			<key>timeStoppedRecording</key>
+			<real>706516223.51881695</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>4208AC0C-0E3D-4BB7-B88B-B5D1E585D3DF</string>
+		</dict>
 		<key>42FC224D-4E01-4FAF-93F2-6A237055E2EA</key>
 		<dict>
 			<key>className</key>
@@ -1093,6 +1433,74 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>42FC224D-4E01-4FAF-93F2-6A237055E2EA</string>
+		</dict>
+		<key>4ABDE553-3B49-4380-BE72-11711891D23A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4ABDE553-3B49-4380-BE72-11711891D23A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515085.89906597</real>
+			<key>timeStoppedRecording</key>
+			<real>706515087.68588197</real>
+			<key>title</key>
+			<string>Build TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>4ABDE553-3B49-4380-BE72-11711891D23A</string>
+		</dict>
+		<key>4AC6681D-BB09-46EE-8269-440032AE05BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4AC6681D-BB09-46EE-8269-440032AE05BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513101.792171</real>
+			<key>timeStoppedRecording</key>
+			<real>706513102.05733204</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>4AC6681D-BB09-46EE-8269-440032AE05BC</string>
 		</dict>
 		<key>4BFCE284-0EC1-4E1F-87D7-428127CF6D99</key>
 		<dict>
@@ -1502,6 +1910,74 @@
 			<key>uniqueIdentifier</key>
 			<string>55B57838-EA76-44A6-A02D-4F31BDA33B02</string>
 		</dict>
+		<key>55C0FF61-B52D-4000-9159-53818D6B318D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55C0FF61-B52D-4000-9159-53818D6B318D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516448.49967802</real>
+			<key>timeStoppedRecording</key>
+			<real>706516448.76487398</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>55C0FF61-B52D-4000-9159-53818D6B318D</string>
+		</dict>
+		<key>57EBDCCE-123E-4199-B782-1B33837F8739</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57EBDCCE-123E-4199-B782-1B33837F8739.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513004.98147094</real>
+			<key>timeStoppedRecording</key>
+			<real>706513005.29484904</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>57EBDCCE-123E-4199-B782-1B33837F8739</string>
+		</dict>
 		<key>5972B702-F552-4052-A627-9644D038B675</key>
 		<dict>
 			<key>className</key>
@@ -1569,6 +2045,210 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>5A3B2AA9-3AB9-4FF7-A490-EB548D70D2D8</string>
+		</dict>
+		<key>6055F14A-1839-49DA-B654-EB450318367B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6055F14A-1839-49DA-B654-EB450318367B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706514280.44945705</real>
+			<key>timeStoppedRecording</key>
+			<real>706514280.73860395</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>6055F14A-1839-49DA-B654-EB450318367B</string>
+		</dict>
+		<key>64484F54-EC80-465F-A620-F1C00B0BDAAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64484F54-EC80-465F-A620-F1C00B0BDAAE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515368.78003502</real>
+			<key>timeStoppedRecording</key>
+			<real>706515369.48977304</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>64484F54-EC80-465F-A620-F1C00B0BDAAE</string>
+		</dict>
+		<key>6540F3BC-4093-4CA1-863B-B4077670A351</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6540F3BC-4093-4CA1-863B-B4077670A351.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706514058.72466505</real>
+			<key>timeStoppedRecording</key>
+			<real>706514059.02947199</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>6540F3BC-4093-4CA1-863B-B4077670A351</string>
+		</dict>
+		<key>65ED4C06-202F-4419-9F1A-6EC38CE4425C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65ED4C06-202F-4419-9F1A-6EC38CE4425C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513096.62234402</real>
+			<key>timeStoppedRecording</key>
+			<real>706513096.90870595</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>65ED4C06-202F-4419-9F1A-6EC38CE4425C</string>
+		</dict>
+		<key>6669C13B-FC80-40BE-B985-C1F3BEF7A290</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6669C13B-FC80-40BE-B985-C1F3BEF7A290.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513079.42636299</real>
+			<key>timeStoppedRecording</key>
+			<real>706513079.69379997</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>6669C13B-FC80-40BE-B985-C1F3BEF7A290</string>
+		</dict>
+		<key>6A53880A-CDBA-4062-8D2A-9DEFAB9A8AFB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A53880A-CDBA-4062-8D2A-9DEFAB9A8AFB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516447.61801898</real>
+			<key>timeStoppedRecording</key>
+			<real>706516447.91536999</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>6A53880A-CDBA-4062-8D2A-9DEFAB9A8AFB</string>
 		</dict>
 		<key>6B37D845-08F8-4E9F-9E60-476D5C9BE523</key>
 		<dict>
@@ -1808,6 +2488,108 @@
 			<key>uniqueIdentifier</key>
 			<string>77D83952-5202-482C-8E74-9D7687604940</string>
 		</dict>
+		<key>78BA57F4-E791-450C-A579-3F61C1ED964C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>78BA57F4-E791-450C-A579-3F61C1ED964C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515543.64396596</real>
+			<key>timeStoppedRecording</key>
+			<real>706515543.68873596</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>78BA57F4-E791-450C-A579-3F61C1ED964C</string>
+		</dict>
+		<key>78FBA03B-E956-4BD4-A8BD-2E7F13DB86B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>78FBA03B-E956-4BD4-A8BD-2E7F13DB86B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513017.22811997</real>
+			<key>timeStoppedRecording</key>
+			<real>706513017.49971199</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>78FBA03B-E956-4BD4-A8BD-2E7F13DB86B9</string>
+		</dict>
+		<key>7AC4A8AF-1762-4F76-84F9-21B945DB24BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AC4A8AF-1762-4F76-84F9-21B945DB24BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513085.75477505</real>
+			<key>timeStoppedRecording</key>
+			<real>706513087.33929503</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>7AC4A8AF-1762-4F76-84F9-21B945DB24BB</string>
+		</dict>
 		<key>7CF7A436-8635-4476-B7D0-C7544D68D1E9</key>
 		<dict>
 			<key>className</key>
@@ -1841,6 +2623,40 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>7CF7A436-8635-4476-B7D0-C7544D68D1E9</string>
+		</dict>
+		<key>7E21F4DB-F754-4460-8403-84CE86471F7F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E21F4DB-F754-4460-8403-84CE86471F7F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516451.81289196</real>
+			<key>timeStoppedRecording</key>
+			<real>706516452.10236394</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>7E21F4DB-F754-4460-8403-84CE86471F7F</string>
 		</dict>
 		<key>7E55CB49-2E39-47A8-A934-871D7537852D</key>
 		<dict>
@@ -1944,6 +2760,108 @@
 			<key>uniqueIdentifier</key>
 			<string>7E956EC9-09C3-45E4-AAE2-853F680B272A</string>
 		</dict>
+		<key>80D6F29B-DBC1-4850-BA2E-4747A57711A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80D6F29B-DBC1-4850-BA2E-4747A57711A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706512557.33417404</real>
+			<key>timeStoppedRecording</key>
+			<real>706512559.07790697</real>
+			<key>title</key>
+			<string>Build TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>80D6F29B-DBC1-4850-BA2E-4747A57711A6</string>
+		</dict>
+		<key>8313BE72-71C7-4758-ABAF-60552CEF4A3A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8313BE72-71C7-4758-ABAF-60552CEF4A3A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513127.87155199</real>
+			<key>timeStoppedRecording</key>
+			<real>706513128.13980103</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>8313BE72-71C7-4758-ABAF-60552CEF4A3A</string>
+		</dict>
+		<key>831B6774-D3C3-4135-AEFE-841DD80ED682</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>831B6774-D3C3-4135-AEFE-841DD80ED682.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706514064.919788</real>
+			<key>timeStoppedRecording</key>
+			<real>706514066.87617803</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>831B6774-D3C3-4135-AEFE-841DD80ED682</string>
+		</dict>
 		<key>8421FB1C-5D99-4CB4-B0B7-0600671BB67F</key>
 		<dict>
 			<key>className</key>
@@ -2045,6 +2963,40 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>87042A94-9336-4DBA-991E-6E884AFEC6F4</string>
+		</dict>
+		<key>87598D24-CC8A-42AD-8E00-E513B4295645</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87598D24-CC8A-42AD-8E00-E513B4295645.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706514500.00539804</real>
+			<key>timeStoppedRecording</key>
+			<real>706514500.54177296</real>
+			<key>title</key>
+			<string>Build TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>87598D24-CC8A-42AD-8E00-E513B4295645</string>
 		</dict>
 		<key>89DB5421-D899-4D2C-B974-D970521652DC</key>
 		<dict>
@@ -2318,6 +3270,74 @@
 			<key>uniqueIdentifier</key>
 			<string>93D27BB1-85DE-401F-803F-4617AB7AFD53</string>
 		</dict>
+		<key>94272F12-2791-4132-AF2E-F3D9574F9073</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94272F12-2791-4132-AF2E-F3D9574F9073.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516548.07897604</real>
+			<key>timeStoppedRecording</key>
+			<real>706516548.88947296</real>
+			<key>title</key>
+			<string>Build TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>94272F12-2791-4132-AF2E-F3D9574F9073</string>
+		</dict>
+		<key>9720388B-A28C-47EC-A5D0-EF20BF76EDE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9720388B-A28C-47EC-A5D0-EF20BF76EDE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706512801.39256203</real>
+			<key>timeStoppedRecording</key>
+			<real>706512802.13337898</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>9720388B-A28C-47EC-A5D0-EF20BF76EDE5</string>
+		</dict>
 		<key>973CDD7F-5BFA-4FBB-94DD-B87AE8DE50FB</key>
 		<dict>
 			<key>className</key>
@@ -2556,6 +3576,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A106DAAD-1527-472A-A18C-FC4CB8A94889</string>
 		</dict>
+		<key>A10B8B09-922F-4F9B-9B3A-3D47911D4CDB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A10B8B09-922F-4F9B-9B3A-3D47911D4CDB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515069.65068102</real>
+			<key>timeStoppedRecording</key>
+			<real>706515070.38486004</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>A10B8B09-922F-4F9B-9B3A-3D47911D4CDB</string>
+		</dict>
 		<key>A1181E6F-DF28-4093-A1E3-F3DB817B831F</key>
 		<dict>
 			<key>className</key>
@@ -2590,6 +3644,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A1181E6F-DF28-4093-A1E3-F3DB817B831F</string>
 		</dict>
+		<key>A1AEE6BA-3A4D-4D4B-9936-6732A30BB8F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1AEE6BA-3A4D-4D4B-9936-6732A30BB8F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706515540.97151601</real>
+			<key>timeStoppedRecording</key>
+			<real>706515541.68225896</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>A1AEE6BA-3A4D-4D4B-9936-6732A30BB8F2</string>
+		</dict>
 		<key>A1D0C9E1-8F9D-4DC4-82B8-969F03CFB8C6</key>
 		<dict>
 			<key>className</key>
@@ -2623,6 +3711,74 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>A1D0C9E1-8F9D-4DC4-82B8-969F03CFB8C6</string>
+		</dict>
+		<key>A2725B23-7BD2-4B9F-AF45-08C3BBBCE507</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2725B23-7BD2-4B9F-AF45-08C3BBBCE507.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706517850.75534499</real>
+			<key>timeStoppedRecording</key>
+			<real>706517851.71765101</real>
+			<key>title</key>
+			<string>Build TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>A2725B23-7BD2-4B9F-AF45-08C3BBBCE507</string>
+		</dict>
+		<key>A2DBE808-D4BE-49F8-99EF-0607AA0FF7BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2DBE808-D4BE-49F8-99EF-0607AA0FF7BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706514136.55789006</real>
+			<key>timeStoppedRecording</key>
+			<real>706514136.82537103</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>A2DBE808-D4BE-49F8-99EF-0607AA0FF7BE</string>
 		</dict>
 		<key>A377BAA4-DA37-4806-AC08-1074E834B115</key>
 		<dict>
@@ -2862,6 +4018,74 @@
 			<key>uniqueIdentifier</key>
 			<string>AFBE97D1-BBB0-4F3E-8095-DD2711821378</string>
 		</dict>
+		<key>B02AB700-C97E-47FC-B7F2-4C2B99D1C3BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B02AB700-C97E-47FC-B7F2-4C2B99D1C3BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706512804.43212998</real>
+			<key>timeStoppedRecording</key>
+			<real>706512805.28370094</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>B02AB700-C97E-47FC-B7F2-4C2B99D1C3BA</string>
+		</dict>
+		<key>B08AD219-F322-46DB-9836-9C04CD0CEF47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B08AD219-F322-46DB-9836-9C04CD0CEF47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513137.26631498</real>
+			<key>timeStoppedRecording</key>
+			<real>706513137.71534705</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>B08AD219-F322-46DB-9836-9C04CD0CEF47</string>
+		</dict>
 		<key>B1862F6F-E152-4448-801F-099F208464E8</key>
 		<dict>
 			<key>className</key>
@@ -2895,6 +4119,40 @@
 			<string>Build TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>B1862F6F-E152-4448-801F-099F208464E8</string>
+		</dict>
+		<key>B1EC20BE-951A-45A9-9076-1A1ED4CAAAA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B1EC20BE-951A-45A9-9076-1A1ED4CAAAA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706514502.84281099</real>
+			<key>timeStoppedRecording</key>
+			<real>706514503.12246501</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>B1EC20BE-951A-45A9-9076-1A1ED4CAAAA0</string>
 		</dict>
 		<key>B1FBB0CC-BD1B-4F2A-ACF4-3400DF12FD9A</key>
 		<dict>
@@ -2998,6 +4256,40 @@
 			<key>uniqueIdentifier</key>
 			<string>B6FF3DB2-C563-4E42-B470-F36B79EB416F</string>
 		</dict>
+		<key>B76E28AD-FAE2-4EBB-B554-142A7EFB1EC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B76E28AD-FAE2-4EBB-B554-142A7EFB1EC9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516178.35904801</real>
+			<key>timeStoppedRecording</key>
+			<real>706516178.69299698</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>B76E28AD-FAE2-4EBB-B554-142A7EFB1EC9</string>
+		</dict>
 		<key>B7859820-DFC9-4301-BF81-AA8ACDA7A843</key>
 		<dict>
 			<key>className</key>
@@ -3031,6 +4323,40 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>B7859820-DFC9-4301-BF81-AA8ACDA7A843</string>
+		</dict>
+		<key>B7FFAFA1-B7D2-4A3F-88C7-078D81421D0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7FFAFA1-B7D2-4A3F-88C7-078D81421D0E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513178.13097501</real>
+			<key>timeStoppedRecording</key>
+			<real>706513178.92097604</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>B7FFAFA1-B7D2-4A3F-88C7-078D81421D0E</string>
 		</dict>
 		<key>BBCB626B-488B-4FCA-879B-9B814BAE2EAC</key>
 		<dict>
@@ -3133,6 +4459,40 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>BE500598-A41B-4E8D-B95A-A59F6DBB1B71</string>
+		</dict>
+		<key>BE840842-98D7-4307-98FB-FEA6182334F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE840842-98D7-4307-98FB-FEA6182334F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706514056.11569297</real>
+			<key>timeStoppedRecording</key>
+			<real>706514056.39752698</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>BE840842-98D7-4307-98FB-FEA6182334F9</string>
 		</dict>
 		<key>C25F5C38-39D6-469B-A0C4-3799159B8931</key>
 		<dict>
@@ -3304,6 +4664,74 @@
 			<key>uniqueIdentifier</key>
 			<string>C6103A84-5842-429F-92EC-C633CBC4AE2A</string>
 		</dict>
+		<key>C8694839-9E66-44EF-AEE8-5129268C6B16</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8694839-9E66-44EF-AEE8-5129268C6B16.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513052.03967798</real>
+			<key>timeStoppedRecording</key>
+			<real>706513052.33510101</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>C8694839-9E66-44EF-AEE8-5129268C6B16</string>
+		</dict>
+		<key>C983BAAD-82A8-4206-AC4A-F1B88971AC44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C983BAAD-82A8-4206-AC4A-F1B88971AC44.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706517308.76998794</real>
+			<key>timeStoppedRecording</key>
+			<real>706517309.66445994</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>C983BAAD-82A8-4206-AC4A-F1B88971AC44</string>
+		</dict>
 		<key>CAEDDFA0-AF37-488C-8B4E-FFEB8DB4913A</key>
 		<dict>
 			<key>className</key>
@@ -3406,6 +4834,40 @@
 			<key>uniqueIdentifier</key>
 			<string>CC4BE534-76C8-4194-926D-B060E9A45FF2</string>
 		</dict>
+		<key>CF27DE43-C6A4-40E0-A98B-54B61AC6A80B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF27DE43-C6A4-40E0-A98B-54B61AC6A80B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513021.77573895</real>
+			<key>timeStoppedRecording</key>
+			<real>706513022.20861602</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>CF27DE43-C6A4-40E0-A98B-54B61AC6A80B</string>
+		</dict>
 		<key>CF9930FF-B4A7-475B-A1B3-BB54ED024CCF</key>
 		<dict>
 			<key>className</key>
@@ -3439,6 +4901,40 @@
 			<string>Build TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>CF9930FF-B4A7-475B-A1B3-BB54ED024CCF</string>
+		</dict>
+		<key>CFCAA7E6-5EFD-44F0-96C2-387200EBB236</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CFCAA7E6-5EFD-44F0-96C2-387200EBB236.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516474.27420902</real>
+			<key>timeStoppedRecording</key>
+			<real>706516474.57007301</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>CFCAA7E6-5EFD-44F0-96C2-387200EBB236</string>
 		</dict>
 		<key>D19BBCCE-E5CD-491F-8CC1-89CD65BEA0B8</key>
 		<dict>
@@ -3644,6 +5140,40 @@
 			<key>uniqueIdentifier</key>
 			<string>D96E7D74-C863-4D01-A448-F8E30BB6F64E</string>
 		</dict>
+		<key>DBA6D108-E6B9-4486-AB84-319876B44C05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBA6D108-E6B9-4486-AB84-319876B44C05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516348.06152403</real>
+			<key>timeStoppedRecording</key>
+			<real>706516348.81371701</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>DBA6D108-E6B9-4486-AB84-319876B44C05</string>
+		</dict>
 		<key>DBBB2530-0BA0-494C-9274-86A04CC0D0B5</key>
 		<dict>
 			<key>className</key>
@@ -3813,6 +5343,40 @@
 			<string>Build for Previews TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>E05C4B48-6AC3-4817-BFBF-0D6EA3ADF5C2</string>
+		</dict>
+		<key>E28DEC26-A54E-4A2A-BEC0-F7DFD10F1107</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E28DEC26-A54E-4A2A-BEC0-F7DFD10F1107.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706514025.731112</real>
+			<key>timeStoppedRecording</key>
+			<real>706514026.31921101</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>E28DEC26-A54E-4A2A-BEC0-F7DFD10F1107</string>
 		</dict>
 		<key>E60D8D38-1E10-46E0-8987-3FCAD6ACEFB7</key>
 		<dict>
@@ -4222,6 +5786,40 @@
 			<key>uniqueIdentifier</key>
 			<string>EE2A0A8D-D3C9-4982-A914-B966E7AAA0F7</string>
 		</dict>
+		<key>F293203F-CE32-448E-A73E-8ACAD1931453</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F293203F-CE32-448E-A73E-8ACAD1931453.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706516228.14823306</real>
+			<key>timeStoppedRecording</key>
+			<real>706516228.99550998</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>F293203F-CE32-448E-A73E-8ACAD1931453</string>
+		</dict>
 		<key>F305F498-725A-48C3-AC39-E1C1339AFEAD</key>
 		<dict>
 			<key>className</key>
@@ -4357,6 +5955,40 @@
 			<string>Build TransferableTest</string>
 			<key>uniqueIdentifier</key>
 			<string>F5808093-D3A8-44F0-810B-75CA2263FDAE</string>
+		</dict>
+		<key>F5B12401-ED9D-45F6-8FB8-197BEA892F16</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5B12401-ED9D-45F6-8FB8-197BEA892F16.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TransferableTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TransferableTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>timeStartedRecording</key>
+			<real>706513116.327631</real>
+			<key>timeStoppedRecording</key>
+			<real>706513116.59673905</real>
+			<key>title</key>
+			<string>Build for Previews TransferableTest</string>
+			<key>uniqueIdentifier</key>
+			<string>F5B12401-ED9D-45F6-8FB8-197BEA892F16</string>
 		</dict>
 		<key>F5ED7BBA-DEF3-4E62-8831-B95FD9386B93</key>
 		<dict>
