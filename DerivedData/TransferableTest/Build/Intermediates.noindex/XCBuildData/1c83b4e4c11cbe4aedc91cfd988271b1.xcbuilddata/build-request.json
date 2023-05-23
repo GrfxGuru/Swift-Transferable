@@ -1,0 +1,89 @@
+{
+  "buildCommand" : {
+    "command" : "preview"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "5fac06ddb71360e4f23c1b42dc416407844b5b9c9ab20f2efebf8ea6aa5cfc92",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx13.3",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "arm64e",
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Products",
+          "derivedDataPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "DSTROOT" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Intermediates.noindex/Previews/TransferableTest/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Intermediates.noindex/Previews/TransferableTest/Intermediates.noindex",
+              "SYMROOT" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Intermediates.noindex/Previews/TransferableTest/Products"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/peter/Developer/Xcode/TransferableTest/TransferableTest.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Products",
+      "derivedDataPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/peter/Developer/Xcode/TransferableTest/DerivedData/TransferableTest/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

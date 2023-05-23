@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "45c398af353197d4286532546737f7caff237bd15ee598cbd5749e235745cd05"
+build_start_time: [1684810167, 382275000]
+build_end_time: [1684810167, 419030000]
+inputs:
+  "/Users/peter/Developer/Xcode/TransferableTest/TransferableTest/ContentView.swift": !private [1684810166, 943815387]
+  "/Users/peter/Developer/Xcode/TransferableTest/TransferableTest/TransferableTestApp.swift": !private [1684810108, 945132623]
