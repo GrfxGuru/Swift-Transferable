@@ -15,6 +15,7 @@ struct ContentView: View {
   @State var showText = "Some initial text"
   @State var displayGrid:[GridItem] = [GridItem(.flexible()), GridItem(.flexible())]
   @State var imageArray:[ImageModel] = []
+  @State var selectedImageArray:[ImageModel] = []
 
   var body: some View {
     VStack {
@@ -34,42 +35,50 @@ struct ContentView: View {
       .padding()
       LazyVGrid (columns: displayGrid) {
         ForEach(imageArray, id: \.self) { item in
-          item.imageFile
-            .resizable()
-            .aspectRatio(contentMode: .fit)
-            .frame(width:100, height: 100)
+          VStack {
+            item.imageFile
+              .resizable()
+              .aspectRatio(contentMode: .fit)
+              .frame(width:100, height: 100)
+            Button (action: {
+              selectedImageArray.append(item)
+              print("selected count: \(selectedImageArray.count)")
+            }, label: {
+              Text("Select")
+            })
+          }
         }
       }
-      Spacer()
-      HStack {
-        ShareLink(item: shareable,
-                  preview: SharePreview("Some text", image: shareable.image))
-        .frame(width: 150, height: 36)
-        Button(action: {imageArray = []}, label: {
-          Image(systemName: "trash.fill")
-        })
+        Spacer()
+        HStack {
+          ShareLink(item: shareable,
+                    preview: SharePreview("Some text", image: shareable.image))
+          .frame(width: 150, height: 36)
+          Button(action: {imageArray = []}, label: {
+            Image(systemName: "trash.fill")
+          })
+        }
       }
+      .frame(width: 400, height: 400)
+
     }
-    .frame(width: 400, height: 400)
 
   }
 
-}
-
-struct ContentView_Previews: PreviewProvider {
-  static var previews: some View {
-    ContentView()
+  struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+      ContentView()
+    }
   }
-}
 
-extension UTType {
-  static var theImageToShare: UTType = UTType(exportedAs: "com.peterwitham.transferableTest")
-}
-
-struct ShareablePhoto: Transferable {
-  static var transferRepresentation: some TransferRepresentation {
-    ProxyRepresentation(exporting: \.image)
+  extension UTType {
+    static var theImageToShare: UTType = UTType(exportedAs: "com.peterwitham.transferableTest")
   }
-  var image: Image
-  var caption: String
-}
+
+  struct ShareablePhoto: Transferable {
+    static var transferRepresentation: some TransferRepresentation {
+      ProxyRepresentation(exporting: \.image)
+    }
+    var image: Image
+    var caption: String
+  }
