@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0C84C752A20901B00FB64B5 /* GridImageItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C84C742A20901B00FB64B5 /* GridImageItem.swift */; };
 		D0D758DA2A1C60FC00BAD801 /* TransferableTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D758D92A1C60FC00BAD801 /* TransferableTestApp.swift */; };
 		D0D758DC2A1C60FC00BAD801 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D758DB2A1C60FC00BAD801 /* ContentView.swift */; };
 		D0D758DE2A1C60FD00BAD801 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0D758DD2A1C60FD00BAD801 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D0C84C742A20901B00FB64B5 /* GridImageItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridImageItem.swift; sourceTree = "<group>"; };
 		D0D758D62A1C60FC00BAD801 /* TransferableTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TransferableTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0D758D92A1C60FC00BAD801 /* TransferableTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransferableTestApp.swift; sourceTree = "<group>"; };
 		D0D758DB2A1C60FC00BAD801 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D0C84C762A20902200FB64B5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D0C84C742A20901B00FB64B5 /* GridImageItem.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D0C84C772A20903300FB64B5 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D0D758E82A1C8D6200BAD801 /* ImageModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		D0D758CD2A1C60FC00BAD801 = {
 			isa = PBXGroup;
 			children = (
@@ -54,12 +72,13 @@
 		D0D758D82A1C60FC00BAD801 /* TransferableTest */ = {
 			isa = PBXGroup;
 			children = (
+				D0C84C772A20903300FB64B5 /* Models */,
+				D0C84C762A20902200FB64B5 /* Views */,
 				D0D758D92A1C60FC00BAD801 /* TransferableTestApp.swift */,
 				D0D758DB2A1C60FC00BAD801 /* ContentView.swift */,
 				D0D758DD2A1C60FD00BAD801 /* Assets.xcassets */,
 				D0D758E22A1C60FD00BAD801 /* TransferableTest.entitlements */,
 				D0D758DF2A1C60FD00BAD801 /* Preview Content */,
-				D0D758E82A1C8D6200BAD801 /* ImageModel.swift */,
 			);
 			path = TransferableTest;
 			sourceTree = "<group>";
@@ -144,6 +163,7 @@
 			files = (
 				D0D758DC2A1C60FC00BAD801 /* ContentView.swift in Sources */,
 				D0D758DA2A1C60FC00BAD801 /* TransferableTestApp.swift in Sources */,
+				D0C84C752A20901B00FB64B5 /* GridImageItem.swift in Sources */,
 				D0D758E92A1C8D6200BAD801 /* ImageModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
