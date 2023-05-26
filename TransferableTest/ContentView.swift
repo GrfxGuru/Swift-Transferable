@@ -16,6 +16,7 @@ struct ContentView: View {
   @State var displayGrid:[GridItem] = [GridItem(.flexible()), GridItem(.flexible())]
   @State var imageArray:[ImageModel] = []
   @State var selectedImageArray:[ImageModel] = []
+  @State var imagesToShare:[ShareablePhoto] = []
 
   var body: some View {
     VStack {
@@ -42,7 +43,8 @@ struct ContentView: View {
               .frame(width:100, height: 100)
             Button (action: {
               selectedImageArray.append(item)
-              print("selected count: \(selectedImageArray.count)")
+              var newImageToAdd = ShareablePhoto(image: item.imageFile, caption: "Here's the caption")
+              imagesToShare.append(newImageToAdd)
             }, label: {
               Text("Select")
             })
@@ -51,9 +53,12 @@ struct ContentView: View {
       }
         Spacer()
         HStack {
-          ShareLink(item: shareable,
-                    preview: SharePreview("Some text", image: shareable.image))
-          .frame(width: 150, height: 36)
+          ShareLink(items: imagesToShare) { photo in
+            SharePreview(photo.caption, image: photo.image)
+        }
+//          ShareLink(item: shareable,
+//                    preview: SharePreview("Some text", image: shareable.image))
+//          .frame(width: 150, height: 36)
           Button(action: {imageArray = []}, label: {
             Image(systemName: "trash.fill")
           })
@@ -62,7 +67,6 @@ struct ContentView: View {
       .frame(width: 400, height: 400)
 
     }
-
   }
 
   struct ContentView_Previews: PreviewProvider {
