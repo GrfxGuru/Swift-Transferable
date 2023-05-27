@@ -20,15 +20,14 @@ struct GridImageItem: View {
           .resizable()
           .aspectRatio(contentMode: .fit)
           .frame(width:100, height: 100)
-        Button (action: {
-          isSelected = !isSelected
-          selectedImageArray.append(theImage)
-          let newImageToAdd = ShareablePhoto(image: theImage.imageFile, caption: "Here's the caption")
-          imagesToShare.append(newImageToAdd)
-        }, label: {
-          Text("Select")
-        })
-        .background(isSelected ? Color.white : Color.purple)
+          .background(isSelected ? Color.purple : Color.white)
+          .onTapGesture {
+            isSelected = !isSelected
+            selectedImageArray.append(theImage)
+            let newImageToAdd = ShareablePhoto(image: theImage.imageFile, caption: "Here's the caption")
+            imagesToShare.append(newImageToAdd)
+          }
+          .border(isSelected ? Color.green:Color.white, width: isSelected ? 5:0)
       }
     }
 }
