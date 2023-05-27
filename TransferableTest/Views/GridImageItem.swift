@@ -33,11 +33,9 @@ struct GridImageItem: View {
     }
 }
 
-//struct GridImageItem_Previews: PreviewProvider {
-//    static var previews: some View {
-//      let previewImage = ImageModel(id: UUID(), imageFile: Image("DropTarget"))
-//      var imagesToShare:[ShareablePhoto] = [ShareablePhoto(image: Image("DropTarget"), caption: "Here's the caption")]
-//      let selectedImageArray:[ImageModel] = []
-//      GridImageItem(theImage: previewImage, selectedImageArray: selectedImageArray, imagesToShare: imagesToShare)
-//    }
-//}
+struct GridImageItem_Previews: PreviewProvider {
+    static var previews: some View {
+      let previewImage = ImageModel(id: UUID(), imageFile: Image("DropTarget"))
+      GridImageItem(theImage: previewImage, selectedImageArray: .constant([previewImage]), imagesToShare: .constant([]))
+    }
+}
