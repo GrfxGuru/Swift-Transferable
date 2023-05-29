@@ -33,7 +33,6 @@ struct GridImageItem: View {
             .onTapGesture {
               isSelected = !isSelected
               selectedImageArray.removeAll(where: { theImage.id == $0.id })
-              imagesToShare = []
               imagesToShare = selectedImageArray.map({ ShareablePhoto(image: $0.imageFile, caption: "") })
             }
         }

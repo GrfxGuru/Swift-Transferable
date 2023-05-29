@@ -48,7 +48,9 @@ struct ContentView: View {
             )
           Button(action: {imageArray = []}, label: {
             Image(systemName: "trash.fill")
-          })
+          }).disabled(
+            (imageArray.count != 0 ? false:true)
+          )
         }
       }
       .frame(width: 400, height: 400)
