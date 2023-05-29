@@ -32,6 +32,7 @@ struct ContentView: View {
             })
             return true
           }
+        Spacer()
       }
       .padding()
       if imageArray.count != 0 {
@@ -43,32 +44,37 @@ struct ContentView: View {
           }
         }
         Spacer()
-      }
-      HStack {
-        ShareLink(items: imagesToShare) { photo in
-          SharePreview(photo.caption, image: photo.image)
-        }.disabled(
-          (selectedImageArray.count != 0 ? false:true)
-        )
-        Button(action: {imageArray = []}, label: {
-          Image(systemName: "trash.fill")
-        }).disabled(
-          (imageArray.count != 0 ? false:true)
-        )
-        Button(action: {
-          displayGrid.append(GridItem(.flexible()))
-        }, label: {
-          Text("+")
-        })
-        Button(action: {
-          displayGrid.removeLast()
-        }, label: {
-          Text("-")
-        })
+        VStack {
+          HStack {
+            Text("Total images: \(imageArray.count)")
+            Spacer()
+            Text("Selected images: \(selectedImageArray.count)")
+          }.padding()
+          HStack {
+            ShareLink(items: imagesToShare) { photo in
+              SharePreview(photo.caption, image: photo.image)
+            }.disabled(
+              (selectedImageArray.count != 0 ? false:true)
+            )
+            Button(action: {imageArray = []}, label: {
+              Image(systemName: "trash.fill")
+            }).disabled(
+              (imageArray.count != 0 ? false:true)
+            )
+            Button(action: {
+              displayGrid.append(GridItem(.flexible()))
+            }, label: {
+              Text("+")
+            })
+            Button(action: {
+              displayGrid.removeLast()
+            }, label: {
+              Text("-")
+            })
+          }.padding()
+        }
       }
     }
-    .frame(width: 400, height: 400)
-
   }
 }
 
