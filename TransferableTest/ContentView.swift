@@ -33,8 +33,8 @@ struct ContentView: View {
             return true
           }
         Spacer()
-      }
-      .padding()
+      }.padding()
+      Spacer()
       if imageArray.count != 0 {
         LazyVGrid (columns: displayGrid) {
           ForEach(imageArray, id: \.self) { item in
