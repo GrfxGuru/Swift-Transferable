@@ -13,7 +13,7 @@ struct ContentView: View {
   @State var imageFile = Image("DropTarget")
   @State var shareable = ShareablePhoto(image: Image("DropTarget"), caption: "Here's the caption")
   @State var showText = "Some initial text"
-  @State var displayGrid:[GridItem] = [GridItem(.flexible()), GridItem(.flexible())]
+  @State var displayGrid:[GridItem] = [GridItem(.fixed(100), spacing: 30), GridItem(.fixed(100), spacing: 30)]
   @State var imageArray:[ImageModel] = []
   @State var selectedImageArray:[ImageModel] = []
   @State var imagesToShare:[ShareablePhoto] = []
@@ -36,12 +36,14 @@ struct ContentView: View {
       }.padding()
       Spacer()
       if imageArray.count != 0 {
-        LazyVGrid (columns: displayGrid) {
-          ForEach(imageArray, id: \.self) { item in
-            GridImageItem(theImage: item,
-                          selectedImageArray: $selectedImageArray,
-                          imagesToShare: $imagesToShare)
-          }
+        ScrollView {
+          LazyVGrid (columns: displayGrid) {
+            ForEach(imageArray, id: \.self) { item in
+              GridImageItem(theImage: item,
+                            selectedImageArray: $selectedImageArray,
+                            imagesToShare: $imagesToShare)
+            }
+          }.padding([.leading, .trailing], 30)
         }
         Spacer()
         VStack {
@@ -62,7 +64,7 @@ struct ContentView: View {
               (imageArray.count != 0 ? false:true)
             )
             Button(action: {
-              displayGrid.append(GridItem(.flexible()))
+              displayGrid.append(GridItem(.fixed(100), spacing: 30))
             }, label: {
               Text("+")
             })

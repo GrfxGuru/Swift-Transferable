@@ -37,10 +37,13 @@ struct GridImageItem: View {
             }
         }
       }
-      .frame(width: 115, height: 115)
-      .background(Color("GridItemBacking"))
-      .border(/*@START_MENU_TOKEN@*/Color(hue: 1.0, saturation: 0.0, brightness: 0.538)/*@END_MENU_TOKEN@*/, width: /*@START_MENU_TOKEN@*/2/*@END_MENU_TOKEN@*/)
-    }.cornerRadius(10)
+      .background {
+        RoundedRectangle(cornerRadius: 10)
+          .stroke(/*@START_MENU_TOKEN@*/Color(hue: 1.0, saturation: 0.0, brightness: 0.538)/*@END_MENU_TOKEN@*/, lineWidth: 2)
+          .frame(width: 115, height: 115)
+//          .background(Color("GridItemBacking")))
+      }.frame(width: 120, height: 120)
+    }
   }
 }
 
