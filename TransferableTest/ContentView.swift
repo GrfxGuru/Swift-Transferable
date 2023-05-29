@@ -34,44 +34,46 @@ struct ContentView: View {
           }
       }
       .padding()
-      LazyVGrid (columns: displayGrid) {
-        ForEach(imageArray, id: \.self) { item in
-          GridImageItem(theImage: item, selectedImageArray: $selectedImageArray, imagesToShare: $imagesToShare)
+      if imageArray.count != 0 {
+        LazyVGrid (columns: displayGrid) {
+          ForEach(imageArray, id: \.self) { item in
+            GridImageItem(theImage: item, selectedImageArray: $selectedImageArray, imagesToShare: $imagesToShare)
+          }
         }
-      }
         Spacer()
-        HStack {
-            ShareLink(items: imagesToShare) { photo in
-              SharePreview(photo.caption, image: photo.image)
-            }.disabled(
-              (selectedImageArray.count != 0 ? false:true)
-            )
-          Button(action: {imageArray = []}, label: {
-            Image(systemName: "trash.fill")
-          }).disabled(
-            (imageArray.count != 0 ? false:true)
-          )
-        }
       }
-      .frame(width: 400, height: 400)
-
+      HStack {
+        ShareLink(items: imagesToShare) { photo in
+          SharePreview(photo.caption, image: photo.image)
+        }.disabled(
+          (selectedImageArray.count != 0 ? false:true)
+        )
+        Button(action: {imageArray = []}, label: {
+          Image(systemName: "trash.fill")
+        }).disabled(
+          (imageArray.count != 0 ? false:true)
+        )
+      }
     }
-  }
+    .frame(width: 400, height: 400)
 
-  struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-      ContentView()
-    }
   }
+}
 
-  extension UTType {
-    static var theImageToShare: UTType = UTType(exportedAs: "com.peterwitham.transferableTest")
+struct ContentView_Previews: PreviewProvider {
+  static var previews: some View {
+    ContentView()
   }
+}
 
-  struct ShareablePhoto: Transferable {
-    static var transferRepresentation: some TransferRepresentation {
-      ProxyRepresentation(exporting: \.image)
-    }
-    var image: Image
-    var caption: String
+extension UTType {
+  static var theImageToShare: UTType = UTType(exportedAs: "com.peterwitham.transferableTest")
+}
+
+struct ShareablePhoto: Transferable {
+  static var transferRepresentation: some TransferRepresentation {
+    ProxyRepresentation(exporting: \.image)
   }
+  var image: Image
+  var caption: String
+}
