@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 
-struct ImageModel: Hashable {
+struct ImageModel: Hashable, Identifiable {
   var id: UUID
   var imageFile: Image
 
