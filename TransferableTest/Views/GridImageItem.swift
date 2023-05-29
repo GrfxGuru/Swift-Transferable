@@ -21,7 +21,6 @@ struct GridImageItem: View {
             .resizable()
             .aspectRatio(contentMode: .fit)
             .frame(width:100, height: 100)
-            .background(isSelected ? Color.purple : Color.white)
             .onTapGesture {
               isSelected = !isSelected
               selectedImageArray.append(theImage)

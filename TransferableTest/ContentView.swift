@@ -30,7 +30,6 @@ struct ContentView: View {
             imageArray.append(contentsOf: items.map { item in
               return ImageModel(id: UUID(), imageFile: item)
             })
-            //shareable.image = items.first ?? Image("CSPodcast")
             return true
           }
       }
@@ -38,28 +37,15 @@ struct ContentView: View {
       LazyVGrid (columns: displayGrid) {
         ForEach(imageArray, id: \.self) { item in
           GridImageItem(theImage: item, selectedImageArray: $selectedImageArray, imagesToShare: $imagesToShare)
-//          VStack {
-//            item.imageFile
-//              .resizable()
-//              .aspectRatio(contentMode: .fit)
-//              .frame(width:100, height: 100)
-//            Button (action: {
-//              isPressed = true
-//              selectedImageArray.append(item)
-//              let newImageToAdd = ShareablePhoto(image: item.imageFile, caption: "Here's the caption")
-//              imagesToShare.append(newImageToAdd)
-//            }, label: {
-//              Text("Select")
-//            })
-//            .background(isPressed ? Color.white : Color.purple)
-//          }
         }
       }
         Spacer()
         HStack {
-          ShareLink(items: imagesToShare) { photo in
-            SharePreview(photo.caption, image: photo.image)
-        }
+            ShareLink(items: imagesToShare) { photo in
+              SharePreview(photo.caption, image: photo.image)
+            }.disabled(
+              (selectedImageArray.count != 0 ? false:true)
+            )
           Button(action: {imageArray = []}, label: {
             Image(systemName: "trash.fill")
           })
