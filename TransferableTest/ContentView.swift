@@ -34,7 +34,6 @@ struct ContentView: View {
           }
         Spacer()
       }.padding()
-      Spacer()
       if imageArray.count != 0 {
         ScrollView {
           LazyVGrid (columns: displayGrid) {
@@ -77,7 +76,6 @@ struct ContentView: View {
         }
       }
       else {
-        Spacer()
         Text("Drop some images on the 'Drop Files Here' to get started").font(.title)
         Spacer()
       }
