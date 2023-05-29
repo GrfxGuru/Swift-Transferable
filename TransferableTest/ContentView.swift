@@ -37,7 +37,9 @@ struct ContentView: View {
       if imageArray.count != 0 {
         LazyVGrid (columns: displayGrid) {
           ForEach(imageArray, id: \.self) { item in
-            GridImageItem(theImage: item, selectedImageArray: $selectedImageArray, imagesToShare: $imagesToShare)
+            GridImageItem(theImage: item,
+                          selectedImageArray: $selectedImageArray,
+                          imagesToShare: $imagesToShare)
           }
         }
         Spacer()
@@ -53,6 +55,16 @@ struct ContentView: View {
         }).disabled(
           (imageArray.count != 0 ? false:true)
         )
+        Button(action: {
+          displayGrid.append(GridItem(.flexible()))
+        }, label: {
+          Text("+")
+        })
+        Button(action: {
+          displayGrid.removeLast()
+        }, label: {
+          Text("-")
+        })
       }
     }
     .frame(width: 400, height: 400)
